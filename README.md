@@ -27,13 +27,13 @@
 │                   BOUTIK HOMEPAGE                   │
 ├─────────────────────────────────────────────────────┤
 │ [Hero Banner]      [Search & Filters]  [Wishlist]   │
-│                                                       │
-│ [Featured Products] [Today's Deals]  [Best Sellers]  │
-│ [Product Cards]     [Reviews]        [Ratings]       │
-│                                                       │
-│ [Categories Sidebar] [Product Details] [AI Chat]     │
-│                                                       │
-│ [Shopping Cart]      [Checkout Flow]   [Orders]      │
+│                                                     │
+│ [Featured Products] [Today's Deals]  [Best Sellers] │
+│ [Product Cards]     [Reviews]        [Ratings]      │
+│                                                     │
+│ [Categories Sidebar] [Product Details] [AI Chat]    │
+│                                                     │
+│ [Shopping Cart]      [Checkout Flow]   [Orders]     │
 └─────────────────────────────────────────────────────┘
 ```
 
